@@ -22,17 +22,7 @@ Logistic regression,Decision tree, random forest, bagging, xgbost,KNN , SVM clas
 
 6.Model evaluation- We evaluated our built models using the evaluation metrics provided by the scikit-learn package. The evaluation metrics we are going to use are the accuracy score metric, f1 score metric, and finally the confusion matrix.
 
-Sn No	Model	Recall	Accuracy	 Area under ROC_curve
-1	Logistic Regression
-	0.6262	0.9989	0.8129
-2	K-Nearest neighbour	0.7757	0.9994	0.8878
-3	Decision Tree	0.6916	0.9991	0.8456
-4	Bagging ensemble	0.8037	0.9995	0.9018
-5	Random Forest	0.785	0.9995	0.8925
-6	XGBoost	0.7757	0.9995	0.8878
-7	Support vector Classifier	0.7477	0.9989	0.8735
-8	Local Outlier Factor	0.0093	0.9964	0.5038
-9	Isolation Forest	0.3178	0.9975	0.6583
+
 
 
   
