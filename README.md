@@ -22,7 +22,7 @@ Logistic regression,Decision tree, random forest, bagging, xgbost,KNN , SVM clas
 
 6.Model evaluation- We evaluated our built models using the evaluation metrics provided by the scikit-learn package. The evaluation metrics we are going to use are the accuracy score metric, f1 score metric, and finally the confusion matrix.
 
- # Found and accuracy 99.9% for all the classification models
+  Found and accuracy 99.9% for all the classification models
 
 
   
