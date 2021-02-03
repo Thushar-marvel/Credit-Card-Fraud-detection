@@ -1,7 +1,7 @@
 # Credit-card-fraud-detection
 Anamoly detection in credit card transactions using different Machine learning algorithms in python
-Used supervised learning algolithms -Logistic regression,Decision tree, Random forest, Bagging, Xgbost,KNN and SVM classifiers
-Unsupervised learning algorithms- Isolation forest and local outlier Factor
+Used supervised learning algolithms -Logistic regression,Decision tree, Random forest, Bagging, Xgbost,KNN SVM classifiers and Isolation forest.
+Unsupervised learning algorithms- local outlier Factor
 
 # Steps involved in building model
 1.Loading packages
